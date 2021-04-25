@@ -11,7 +11,7 @@ This repository contains Jupyter notebooks from data science projects covering t
   - [Wine reviews.ipynb](https://github.com/tphu06/data-science-python/blob/main/Wine%20reviews.ipynb)
 
 ## SherlockHolmsNetworks.ipynb
-In the four novels A Study In Scarlet, The Hound of the Baskervilles, The Valley of Fear, and The Sign of the Four by author Arthur Conan Doyle, private detective Sherlock Holmes is a recurring main character who tackles investigative cases for a wide range of clients. In this project we use text and network analysis methods to understand how character and location relationships in each novel are captured using these methods. In particular, sentential co-occurrence of character, location, and event entities is the focus of this project.
+In the four novels A Study In Scarlet, The Hound of the Baskervilles, The Valley of Fear, and The Sign of the Four by author Arthur Conan Doyle, private detective Sherlock Holmes is a recurring main character who tackles investigative cases for a wide range of clients. In this individual project I use text and network analysis methods to understand how character and location relationships in each novel are captured using these methods. In particular, sentential co-occurrence of character, location, and event entities is the focus of this project.
 
 #### Required packages
 - nltk
@@ -40,6 +40,7 @@ Txt files of four Sir Arthur Conan Doyle novels downloaded from [ProjectGutenber
 Images in notebook.
 
 ## neural_networks_project.ipynb
+This is a group project with team members J. Chen, F. Mota, and T. Phu. In this notebook we use TensorFlow to compare the performance of varying neural network typologies and hyperparameter settings in image recognition using the MNIST data set. using Aurélien Géron's chapter 11 notebook for guidance--https://github.com/ageron/handson-ml/blob/master/11_deep_learning.ipynb.
 
 #### Required packages
 - tensorflow
@@ -70,10 +71,22 @@ MNIST dataset - installed through API in notebook
 |1_layers_120_tanh_cm|1_layers_120_tanh_standard_cm|mlp_best_cm|mlp_best_standard_cm|
 |tf_basic_cm|tf_basic_standard_cm|1_layers_120_tanh|time_pie|
 
-## unsupervised_learning_project.ipynb
+## trees_randomforests_project.ipynb
+This is a group project with team members J. Chen, F. Mota, and T. Phu. In this notebook we use data from the Boston Housing Study to evaluate regression and tree-based modeling methods within a cross-validation design.
+
 #### Required packages
+- sklearn
+- pandas
+- numpy
+- matplotlib
+- graphviz
+- pydot
+
 #### Input files
+boston.csv
+
 #### Outputs
+119 PNG image files--trees_randomforests_outputs.zip
 
 ## Wine reviews.ipynb
 #### Required packages
