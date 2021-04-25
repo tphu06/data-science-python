@@ -40,7 +40,7 @@ Txt files of four Sir Arthur Conan Doyle novels downloaded from [ProjectGutenber
 Images in notebook.
 
 ## neural_networks_project.ipynb
-This is a group project with team members J. Chen, F. Mota, and T. Phu. In this notebook we use TensorFlow to compare the performance of varying neural network typologies and hyperparameter settings in image recognition using the MNIST data set. using Aurélien Géron's chapter 11 notebook for guidance--https://github.com/ageron/handson-ml/blob/master/11_deep_learning.ipynb.
+This is a group project with team members J. Chen, F. Mota, and T. Phu completed in August 2019. In this notebook we use TensorFlow to compare the performance of varying neural network typologies and hyperparameter settings in image recognition using the MNIST data set. using Aurélien Géron's chapter 11 notebook for guidance--https://github.com/ageron/handson-ml/blob/master/11_deep_learning.ipynb.
 
 #### Required packages
 - tensorflow
@@ -72,7 +72,7 @@ MNIST dataset - installed through API in notebook
 |tf_basic_cm|tf_basic_standard_cm|1_layers_120_tanh|time_pie|
 
 ## trees_randomforests_project.ipynb
-This is a group project with team members J. Chen, F. Mota, and T. Phu. In this notebook we use data from the Boston Housing Study to evaluate regression and tree-based modeling methods within a cross-validation design.
+This is a group project with team members J. Chen, F. Mota, and T. Phu completed in July 2019. In this notebook we use data from the Boston Housing Study to evaluate regression and tree-based modeling methods within a cross-validation design.
 
 #### Required packages
 - sklearn
@@ -89,6 +89,22 @@ boston.csv
 119 PNG image files--trees_randomforests_outputs.zip
 
 ## Wine reviews.ipynb
+This is a group project with C. Boetticher completed in December 2018. Our project team ingested and analyzed a Kaggle dataset of 130,000 wine reviews scraped from Wine Enthusiast magazine during the week of November 22, 2017. This collection held obvious appeal as we both enjoy wine, but more importantly, offers valuable opportunities for data exploration, statistical description, quantitative analysis, text analysis, and visualizations.
+
 #### Required packages
+- pandas
+- numpy
+- re
+- math
+- string
+- matplotlib
+- nltk
+- itertools
+- collections
+- seaborn
+
 #### Input files
+winemag-data.csv
+
 #### Outputs
+Image outputs embedded in notebook.
