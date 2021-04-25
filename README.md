@@ -2,6 +2,6 @@
 
 This repository contains Jupyter notebooks from data science projects covering the following areas:
 
-- machine learning
+- Machine learning using scikit-learn and TensorFlow
 - NLP / text analysis / web & network science
-- data analysis
+- Data analysis using Python
