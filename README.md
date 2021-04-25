@@ -104,7 +104,7 @@ This is a group project with C. Boetticher completed in December 2018. Our proje
 - seaborn
 
 #### Input files
-winemag-data.csv
+winemag-data.csv in winemag-data.zip
 
 #### Outputs
 Image outputs embedded in notebook.
