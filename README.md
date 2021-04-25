@@ -58,7 +58,7 @@ Images in notebook.
 MNIST dataset - installed through API in notebook
 
 #### Outputs
-28 png images
+28 pdf images - see outputs in neural_networks_image_outputs.zip folder
 
 | | | | |
 |---|---|---|---|
