@@ -29,6 +29,8 @@ In the four novels A Study In Scarlet, The Hound of the Baskervilles, The Valley
 - inflect
 - warnings
 
+**Use requiments.txt file to run  pip install -r requirements.txt
+
 #### Input files
 Txt files of four Sir Arthur Conan Doyle novels downloaded from [ProjectGutenberg](https://www.gutenberg.org/):
 - baskervilles.txt: [The Hound of the Baservilles](https://www.gutenberg.org/ebooks/3070)
@@ -44,7 +46,7 @@ This is a group project with team members J. Chen, F. Mota, and T. Phu completed
 
 #### Required packages
 - tensorflow
-- sklearn
+- scikit-learn
 - numpy
 - pandas
 - matplotlib
@@ -54,6 +56,8 @@ This is a group project with team members J. Chen, F. Mota, and T. Phu completed
 - time
 - functools
 - random
+
+**Use requiments.txt file to run  pip install -r requirements.txt
 
 #### Input files
 MNIST dataset - installed through API in notebook
@@ -75,12 +79,14 @@ MNIST dataset - installed through API in notebook
 This is a group project with team members J. Chen, F. Mota, and T. Phu completed in July 2019. In this notebook we use data from the Boston Housing Study to evaluate regression and tree-based modeling methods within a cross-validation design.
 
 #### Required packages
-- sklearn
+- scikit-learn
 - pandas
 - numpy
 - matplotlib
 - graphviz
 - pydot
+
+**Use requiments.txt file to run  pip install -r requirements.txt
 
 #### Input files
 boston.csv
@@ -102,6 +108,8 @@ This is a group project with C. Boetticher completed in December 2018. Our proje
 - itertools
 - collections
 - seaborn
+
+**Use requiments.txt file to run  pip install -r requirements.txt
 
 #### Input files
 winemag-data.csv in winemag-data.zip
