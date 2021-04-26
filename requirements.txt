@@ -1,0 +1,16 @@
+inflect==5.3.0
+matplotlib==3.4.1
+networkx==2.5.1
+numpy==1.20.2
+pandas==1.2.4
+pydot==1.4.2
+pygraphviz==1.7
+graphviz==0.16
+scipy==1.6.3
+seaborn==0.11.1
+scikit-learn==0.24.1
+spacy==3.0.6
+tensorflow==2.4.1
+textblob==0.15.3
+wordcloud==1.8.1
+nltk==3.6.2
